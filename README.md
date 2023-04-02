@@ -18,3 +18,7 @@ Discord: https://discordapp.com/users/1008659940350636102
 
 **Currently**</br>
 I’m learning React.js and working on landing page Gotcha.
+
+https://github.com/tonic-6101/tonic-6101/blob/main/assets/Discord.svg
+
+<a href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/Discord.svg"></a>
