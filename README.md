@@ -22,5 +22,7 @@ Welcome to my Github
 
 ![https://discordapp.com/users/1008659940350636102](https://github.com/tonic-6101/tonic-6101/blob/main/assets/Discord.svg?classes=icon 'My Discord')
 
+![https://discordapp.com/users/1008659940350636102](https://github.com/tonic-6101/tonic-6101/blob/main/assets/Discord.svg?cropResize=50,50 'My Discord')
+
 **Currently**</br>
 I’m learning React.js and working on landing page Gotcha.
