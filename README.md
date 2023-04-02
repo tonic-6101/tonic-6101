@@ -14,7 +14,9 @@ Welcome to my Github
 
 **Contact**
 
-<a class="icon" href="https://discordapp.com/users/1008659940350636102"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/Discord.svg" alt="My Discord" style="width:50px;height:50px;"></a>
+<a class="icon" href="https://discordapp.com/users/1008659940350636102"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/Discord.svg" alt="My Discord" style="width:50px;height:50px;" target="_blank"></a>
+
+<a class="icon" href="https://discordapp.com/users/1008659940350636102"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/Discord.svg" alt="My Discord" target="_blank"></a>
 
 **Currently**</br>
 I’m learning React.js and working on landing page Gotcha.
