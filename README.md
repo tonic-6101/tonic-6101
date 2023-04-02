@@ -22,3 +22,5 @@ I’m learning React.js and working on landing page Gotcha.
 https://github.com/tonic-6101/tonic-6101/blob/main/assets/Discord.svg
 
 <a href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/Discord.svg"></a>
+
+<a href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/Discord.svg alt="My Discord" style="width:42px;height:42px;"></a>
