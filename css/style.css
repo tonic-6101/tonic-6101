@@ -1,8 +1,12 @@
 .icon {
-  height: 5rem;
-  width: 5rem;
+  height: 50px;
+  width: 50px;
 }
 
 .icon:hover {
+  transform: scale(1.1);
+}
+
+img:hover {
   transform: scale(1.1);
 }
