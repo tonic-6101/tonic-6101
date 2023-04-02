@@ -6,15 +6,17 @@ Welcome to my Github
 
 **My Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,graphql,mysql)](https://skillicons.dev)
+<img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/HTML.svg" style="width:50px;height:50px;"></img> <img href="https://discordapp.com/users/1008659940350636102"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/CSS.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/JavaScript.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/GraphQL-Dark.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/MySQL-Dark.svg" style="width:50px;height:50px;"></img>
 
 **Interested in**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,expressjs,nextjs,ts)](https://skillicons.dev)
+<img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/React-Dark.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/NodeJS-Dark.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/ExpressJS-Dark.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/NextJS-Dark.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/TypeScript.svg" style="width:50px;height:50px;"></img>
 
 **Contact**
 
-<img href="https://discordapp.com/users/1008659940350636102"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/Discord.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/Instagram.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/LinkedIn.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/Mail.svg" style="width:50px;height:50px;"></img>
+<img href="https://discordapp.com/users/1008659940350636102"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Discord.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Instagram.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/LinkedIn.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Mail.svg" style="width:54px;height:54px;"></img>
 
 **Currently**</br>
 I’m learning React.js and working on landing page Gotcha.
+
+Source Icons: https://github.com/tandpfun/skill-icons#readme
