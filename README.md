@@ -14,7 +14,7 @@ Welcome to my Github
 
 **Contact**
 
-<img class="icon" href="https://discordapp.com/users/1008659940350636102"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/Discord.svg" alt="My Discord" style="width:50px;height:50px;" target="_blank"></img>
+<img href="https://discordapp.com/users/1008659940350636102"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/Discord.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/Instagram.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/LinkedIn.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/Mail.svg" style="width:50px;height:50px;"></img>
 
 **Currently**</br>
 I’m learning React.js and working on landing page Gotcha.
