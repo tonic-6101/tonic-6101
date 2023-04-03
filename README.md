@@ -19,4 +19,7 @@ Welcome to my Github
 **Currently**</br>
 I’m learning React.js and working on landing page Gotcha.
 
-Source Icons: https://github.com/tandpfun/skill-icons#readme
+**Source Icons:**
+
+https://github.com/tandpfun/skill-icons#readme
+https://commons.wikimedia.org
