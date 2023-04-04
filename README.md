@@ -14,7 +14,7 @@ Welcome to my Github
 
 **Contact**
 
-<img href="https://discordapp.com/users/1008659940350636102"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Discord.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Instagram.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/LinkedIn.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Telegram.svg" style="width:54px;height:50px;"></img>
+<img href="https://discordapp.com/users/1008659940350636102"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Discord.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Gmail.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/LinkedIn.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Telegram.svg" style="width:54px;height:50px;"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Whatsapp.svg" style="width:54px;height:50px;">
 
 **Currently**</br>
 I’m learning React.js and working on landing page Gotcha.
