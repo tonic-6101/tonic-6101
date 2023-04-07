@@ -6,6 +6,8 @@ Welcome to my Github
 
 ## My Skills
 
+[![HTML icon](./assets/icons/HTML.svg)](#)
+
 <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/HTML.svg" style="width:50px;height:50px;"></img> <img href="https://discordapp.com/users/1008659940350636102"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/CSS.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/JavaScript.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/GraphQL-Dark.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/MySQL-Dark.svg" style="width:50px;height:50px;"></img>
 
 ## Interested in
@@ -14,22 +16,12 @@ Welcome to my Github
 
 ## Get in touch
 
-<img href="https://discordapp.com/users/1008659940350636102"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Discord.svg" style="width:50px;height:50px;"></img> <img href="mailto:tonic6101@gmail.com"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Gmail.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/LinkedIn.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Telegram.svg" style="width:54px;height:50px;"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Whatsapp.svg" style="width:54px;height:50px;">
+[![Whatsapp icon](./assets/icons/Whatsapp.svg)](#)
+[![Gmail icon](./assets/icons/Gmail.svg)](mailto:tonic6101@gmail.com)
+[![Discord icon](./assets/icons/Discord.svg)](https://discordapp.com/users/1008659940350636102)
+[![Telegram icon](./assets/icons/Telegram.svg)](#)
 
-<!--
-<img href="https://discordapp.com/users/1008659940350636102"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Discord.svg" style="width:50px;height:50px;"></img> -->
-
-<!-- [![Discordapp icon|50x50,20%](./assets/icons/Discord.svg?cropResize=50,50)](https://discordapp.com/users/1008659940350636102)
-
-[![Discordapp icon](./assets/icons/Discord.svg?crop=0,0,50,50)](https://discordapp.com/users/1008659940350636102)
-
-![Discordapp icon](./assets/icons/Discord.svg?forceResize=100,100)
-
-![Discordapp icon](./assets/icons/Telegram.png?forceResize=100,100) -->
-
-![Discordapp icon](./assets/icons/Telegram-sm.svg)
-
-<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) -->
+<!-- </img> <img href="#"><img src="./assets/icons/LinkedIn.svg" style="width:50px;height:50px;"></img> -->
 
 ## Currently
 
