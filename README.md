@@ -18,9 +18,9 @@ Welcome to my Github
 
 <img href="https://discordapp.com/users/1008659940350636102"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Discord.svg" style="width:50px;height:50px;"></img>
 
-<img src="./assets/icons/Discord.svg?cropResize=50,50" width="48">
+<!-- [![Discordapp icon](./assets/icons/Discord.svg?cropResize=50,50)](https://discordapp.com/users/1008659940350636102) -->
 
-[![Discordapp icon](./assets/icons/Discord.svg?cropResize=50,50)](https://discordapp.com/users/1008659940350636102)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <img href="mailto:tonic6101@gmail.com"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Gmail.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/LinkedIn.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Telegram.svg" style="width:54px;height:50px;"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/Whatsapp.svg" style="width:54px;height:50px;">
 
