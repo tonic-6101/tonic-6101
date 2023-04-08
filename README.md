@@ -14,7 +14,12 @@ Welcome to my GitHub
 
 ## Interested in
 
-<img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/React-Dark.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/NodeJS-Dark.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/ExpressJS-Dark.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/NextJS-Dark.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/TypeScript.svg" style="width:50px;height:50px;"></img>
+[![React icon](./assets/icons/React.svg)](#)
+[![Typescript icon](./assets/icons/Typescript.svg)](#)
+[![React icon](./assets/icons/NodeJS.svg)](#)
+[![ExpressJS icon](./assets/icons/ExpressJS.svg)](#)
+
+<!-- [![React icon](./assets/icons/NextJS.svg)](#) -->
 
 ## Get in touch
 
@@ -22,15 +27,10 @@ Welcome to my GitHub
 [![Gmail icon](./assets/icons/Gmail.svg)](mailto:tonic6101@gmail.com)
 [![Discord icon](./assets/icons/Discord.svg)](https://discordapp.com/users/1008659940350636102)
 [![Telegram icon](./assets/icons/Telegram.svg)](#)
+[![Linkedin icon](./assets/icons/Linkedin.svg)](#)
 
-<!-- </img> <img href="#"><img src="./assets/icons/LinkedIn.svg" style="width:50px;height:50px;"></img> -->
+## My projects
 
-## Currently
+[![Gotcha icon](./assets/icons/Gotcha.svg)](#)
 
-I’m learning React.js and working on a landing page Gotcha.
-
-## Source Icons:
-
-https://github.com/tandpfun/skill-icons#readme
-
-https://commons.wikimedia.org
+Landing page Gotcha.
