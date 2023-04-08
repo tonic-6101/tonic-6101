@@ -2,12 +2,15 @@
 
 ## Hi there 👋
 
-Welcome to my Github
+Welcome to my GitHub
 
 ## My Skills
 
 [![HTML icon](./assets/icons/HTML.svg)](#)
-<img href="https://discordapp.com/users/1008659940350636102"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/CSS.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/JavaScript.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/GraphQL-Dark.svg" style="width:50px;height:50px;"></img> <img href="#"><img src="https://github.com/tonic-6101/tonic-6101/blob/main/assets/icons/MySQL-Dark.svg" style="width:50px;height:50px;"></img>
+[![CSS icon](./assets/icons/CSS.svg)](#)
+[![JavaScript icon](./assets/icons/JavaScript.svg)](#)
+[![GraphQL icon](./assets/icons/GraphQL.svg)](#)
+[![MySQL icon](./assets/icons/MySQL.svg)](#)
 
 ## Interested in
 
