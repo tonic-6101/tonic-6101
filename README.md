@@ -17,8 +17,8 @@ Welcome to my GitHub
 [![React icon](./assets/icons/React.svg)](#)
 [![React icon](./assets/icons/NodeJS.svg)](#)
 [![ExpressJS icon](./assets/icons/ExpressJS.svg)](#)
-[![Typescript icon](./assets/icons/Typescript.svg)](#)
 
+<!-- [![Typescript icon](./assets/icons/Typescript.svg)](#) -->
 <!-- [![React icon](./assets/icons/NextJS.svg)](#) -->
 
 ## Get in touch
@@ -26,8 +26,9 @@ Welcome to my GitHub
 [![Whatsapp icon](./assets/icons/Whatsapp.svg)](#)
 [![Gmail icon](./assets/icons/Gmail.svg)](mailto:tonic6101@gmail.com)
 [![Discord icon](./assets/icons/Discord.svg)](https://discordapp.com/users/1008659940350636102)
-[![Linkedin icon](./assets/icons/Linkedin.svg)](#)
 [![Telegram icon](./assets/icons/Telegram.svg)](#)
+
+<!-- [![Linkedin icon](./assets/icons/Linkedin.svg)](#) -->
 
 ## My projects
 
