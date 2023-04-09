@@ -15,9 +15,9 @@ Welcome to my GitHub
 ## Interested in
 
 [![React icon](./assets/icons/React.svg)](#)
-[![Typescript icon](./assets/icons/Typescript.svg)](#)
 [![React icon](./assets/icons/NodeJS.svg)](#)
 [![ExpressJS icon](./assets/icons/ExpressJS.svg)](#)
+[![Typescript icon](./assets/icons/Typescript.svg)](#)
 
 <!-- [![React icon](./assets/icons/NextJS.svg)](#) -->
 
@@ -26,8 +26,8 @@ Welcome to my GitHub
 [![Whatsapp icon](./assets/icons/Whatsapp.svg)](#)
 [![Gmail icon](./assets/icons/Gmail.svg)](mailto:tonic6101@gmail.com)
 [![Discord icon](./assets/icons/Discord.svg)](https://discordapp.com/users/1008659940350636102)
-[![Telegram icon](./assets/icons/Telegram.svg)](#)
 [![Linkedin icon](./assets/icons/Linkedin.svg)](#)
+[![Telegram icon](./assets/icons/Telegram.svg)](#)
 
 ## My projects
 
