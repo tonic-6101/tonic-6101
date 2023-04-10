@@ -18,11 +18,8 @@ Welcome to my GitHub
 
 ## Interested in
 
-[![React icon](./assets/icons/NodeJS.svg)](#)
+[![NodeJS icon](./assets/icons/NodeJS.svg)](#)
 [![ExpressJS icon](./assets/icons/ExpressJS.svg)](#)
-[![Typescript icon](./assets/icons/Typescript.svg)](#)
-
-<!-- [![React icon](./assets/icons/NextJS.svg)](#) -->
 
 ## Get in touch
 
