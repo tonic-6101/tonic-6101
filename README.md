@@ -14,7 +14,7 @@ Welcome to my GitHub
 
 ## Learning
 
-[![React icon](./assets/icons/React.svg)](#)
+[![React icon](./assets/icons/ReactJS.svg)](#)
 
 ## Interested in
 
@@ -22,6 +22,8 @@ Welcome to my GitHub
 [![ExpressJS icon](./assets/icons/ExpressJS.svg)](#)
 [![TypeScript icon](./assets/icons/TypeScript.svg)](#)
 [![NextJS icon](./assets/icons/NextJS.svg)](#)
+[![MongoDB icon](./assets/icons/MongoDB.svg)](#)
+[![Python icon](./assets/icons/Python.svg)](#)
 
 ## Get in touch
 
