@@ -28,6 +28,7 @@ Welcome to my GitHub
 [![Gmail icon](./assets/icons/Gmail.svg)](mailto:tonic6101@gmail.com)
 [![Discord icon](./assets/icons/Discord.svg)](https://discordapp.com/users/1008659940350636102)
 [![Telegram icon](./assets/icons/Telegram.svg)](#)
+[![LinkedIn icon](./assets/icons/LinkedIn.svg)](#)
 
 ## My projects
 
