@@ -21,6 +21,7 @@ Welcome to my GitHub
 [![NodeJS icon](./assets/icons/NodeJS.svg)](#)
 [![ExpressJS icon](./assets/icons/ExpressJS.svg)](#)
 [![TypeScript icon](./assets/icons/TypeScript.svg)](#)
+[![NextJS icon](./assets/icons/NextJS.svg)](#)
 
 ## Get in touch
 
