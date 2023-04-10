@@ -25,6 +25,8 @@ Welcome to my GitHub
 [![MongoDB icon](./assets/icons/MongoDB.svg)](#)
 [![Python icon](./assets/icons/Python.svg)](#)
 
+[![Python icon](./assets/icons/ElectronJS.svg)](#)
+
 ## Get in touch
 
 [![Whatsapp icon](./assets/icons/Whatsapp.svg)](#)
