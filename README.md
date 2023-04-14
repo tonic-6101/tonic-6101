@@ -6,11 +6,7 @@ Welcome to my GitHub
 
 ## My Skills
 
-[![HTML icon](./assets/icons/HTML.svg)](#)
-[![CSS icon](./assets/icons/CSS.svg)](#)
-[![JavaScript icon](./assets/icons/JavaScript.svg)](#)
-[![GraphQL icon](./assets/icons/GraphQL.svg)](#)
-[![MySQL icon](./assets/icons/MySQL.svg)](#)
+[![HTML icon](./assets/icons/HTML.svg)](#) [![CSS icon](./assets/icons/CSS.svg)](#) [![JavaScript icon](./assets/icons/JavaScript.svg)](#) [![GraphQL icon](./assets/icons/GraphQL.svg)](#) [![MySQL icon](./assets/icons/MySQL.svg)](#)
 
 ## Learning
 
@@ -40,6 +36,3 @@ Welcome to my GitHub
 [![Gotcha icon](./assets/icons/Gotcha.svg)](#)
 
 Landing page Gotcha.
-
-:blush:
-:sunny:
