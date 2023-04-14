@@ -40,3 +40,6 @@ Welcome to my GitHub
 [![Gotcha icon](./assets/icons/Gotcha.svg)](#)
 
 Landing page Gotcha.
+
+:blush:
+:sunny:
