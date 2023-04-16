@@ -10,29 +10,17 @@ Welcome to my GitHub
 
 ## Learning
 
-[![React icon](./assets/icons/ReactJS.svg)](#)
+[![React icon](./assets/icons/ReactJS.svg)](#) [![NodeJS icon](./assets/icons/NodeJS.svg)](#) [![ExpressJS icon](./assets/icons/ExpressJS.svg)](#) [![NextJS icon](./assets/icons/NextJS.svg)](#) [![MongoDB icon](./assets/icons/MongoDB.svg)](#)
 
 ## Interested in
 
-[![NodeJS icon](./assets/icons/NodeJS.svg)](#)
-[![ExpressJS icon](./assets/icons/ExpressJS.svg)](#)
-[![TypeScript icon](./assets/icons/TypeScript.svg)](#)
-[![NextJS icon](./assets/icons/NextJS.svg)](#)
-[![MongoDB icon](./assets/icons/MongoDB.svg)](#)
-[![Python icon](./assets/icons/Python.svg)](#)
-
-[![Python icon](./assets/icons/ElectronJS.svg)](#)
+[![TypeScript icon](./assets/icons/TypeScript.svg)](#) [![Python icon](./assets/icons/Python.svg)](#) [![Electron icon](./assets/icons/ElectronJS.svg)](#)
 
 ## Get in touch
 
-[![Whatsapp icon](./assets/icons/Whatsapp.svg)](#)
-[![Gmail icon](./assets/icons/Gmail.svg)](mailto:tonic6101@gmail.com)
-[![Discord icon](./assets/icons/Discord.svg)](https://discordapp.com/users/1008659940350636102)
-[![Telegram icon](./assets/icons/Telegram.svg)](#)
-[![LinkedIn icon](./assets/icons/LinkedIn.svg)](#)
+[![Whatsapp icon](./assets/icons/Whatsapp.svg)](#) [![Gmail icon](./assets/icons/Gmail.svg)](mailto:tonic6101@gmail.com) [![Discord icon](./assets/icons/Discord.svg)](https://discordapp.com/users/1008659940350636102) [![Telegram icon](./assets/icons/Telegram.svg)](#) [![LinkedIn icon](./assets/icons/LinkedIn.svg)](#)
 
 ## My projects
 
 [![Gotcha icon](./assets/icons/Gotcha.svg)](#)
-
 Landing page Gotcha.
