@@ -2,13 +2,15 @@
 
 ## Hi there 👋
 
-Welcome to my GitHub
+Welcome to my GitHub.
 
 ## My Skills
 
 [![HTML icon](./assets/icons/HTML.svg)](#) [![CSS icon](./assets/icons/CSS.svg)](#) [![JavaScript icon](./assets/icons/JavaScript.svg)](#) [![GraphQL icon](./assets/icons/GraphQL.svg)](#) [![MySQL icon](./assets/icons/MySQL.svg)](#)
 
 ## Learning
+
+I going to become a MERN Stack Developer.
 
 [![React icon](./assets/icons/ReactJS.svg)](#) [![NodeJS icon](./assets/icons/NodeJS.svg)](#) [![ExpressJS icon](./assets/icons/ExpressJS.svg)](#) [![NextJS icon](./assets/icons/NextJS.svg)](#) [![MongoDB icon](./assets/icons/MongoDB.svg)](#)
 
