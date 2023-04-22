@@ -20,7 +20,7 @@ I going to become a MERN Stack Developer.
 
 ## Get in touch
 
-[![Whatsapp icon](./assets/icons/Whatsapp.svg)](#) [![Gmail icon](./assets/icons/Gmail.svg)](mailto:tonic6101@gmail.com) [![Discord icon](./assets/icons/Discord.svg)](https://discordapp.com/users/1008659940350636102) [![Telegram icon](./assets/icons/Telegram.svg)](#) [![LinkedIn icon](./assets/icons/LinkedIn.svg)](#)
+[![Whatsapp icon](./assets/icons/Whatsapp.svg)](https://wa.me/15123681993) [![Gmail icon](./assets/icons/Gmail.svg)](mailto:tonic6101@gmail.com) [![Discord icon](./assets/icons/Discord.svg)](https://discordapp.com/users/1008659940350636102) [![Telegram icon](./assets/icons/Telegram.svg)](https://t.me/tonicsteam) [![LinkedIn icon](./assets/icons/LinkedIn.svg)](https://www.linkedin.com/in/tonic-s-team-1642a0273/)
 
 ## My projects
 
