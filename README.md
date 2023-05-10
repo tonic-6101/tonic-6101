@@ -10,7 +10,7 @@ Welcome to my GitHub.
 
 ## Learning
 
-I going to become a MERN Stack Developer.
+I'm going to become a MERN Stack Developer.
 
 [![React icon](./assets/icons/ReactJS.svg)](#) [![NodeJS icon](./assets/icons/NodeJS.svg)](#) [![ExpressJS icon](./assets/icons/ExpressJS.svg)](#) [![NextJS icon](./assets/icons/NextJS.svg)](#) [![MongoDB icon](./assets/icons/MongoDB.svg)](#)
 
